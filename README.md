@@ -1,2 +1,6 @@
 # Minecraft-Bansystem-Spigot-1.21.11
-This is an modern Minecraft Bansystem/Punishmentsystem.
+DE: Ein einfaches und modernes Bansystem.
+
+Befehle (V1.0.0)
+/punish [user] [reason]
+
